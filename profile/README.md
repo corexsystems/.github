@@ -1,0 +1,102 @@
+<div align="center">
+
+<img src="https://corex.systems/favicon.svg" width="84" alt="CoreX Systems" />
+
+# CoreX Systems
+
+### Сначала архитектура. Потом технологии.
+
+**Искусственный интеллект · Данные и знания · Автоматизация · Инженерная эксплуатация**
+
+Проектируем и внедряем проверяемые инженерные системы: от постановки задачи и архитектуры до промышленной эксплуатации.
+
+[**Официальный сайт**](https://corex.systems/) · [**Услуги**](https://corex.systems/services) · [**Публикации**](https://github.com/corexsystems/corexsystems/blob/main/PUBLICATIONS.md) · [**Предварительная оценка проекта**](https://corex.systems/estimate)
+
+</div>
+
+---
+
+## О компании
+
+**CoreX Systems (ООО «Корекс Системы»)** — российская инженерная компания в сфере искусственного интеллекта, данных, автоматизации, разработки и интеграции корпоративных систем. Работаем с организациями по всей России.
+
+Наш подход: сначала формулируем проверяемую гипотезу и критерии результата, проектируем архитектуру, определяем исходные метрики, проводим воспроизводимые испытания — и только после этого выбираем путь к промышленному внедрению.
+
+### Принципы
+
+| Доказательность | Архитектура | Экономика |
+| :--- | :--- | :--- |
+| Обосновываем решения измерениями и анализом ошибок. | Заранее определяем границы системы, данные, интеграции и требования к надёжности. | Разделяем стоимость работ, допущения, инфраструктурные расходы и риски изменения объёма. |
+
+## Чем занимаемся
+
+| Направление | Инженерные задачи |
+| :--- | :--- |
+| **AI & ML** | Языковые и мультимодальные модели, корпоративный RAG, агенты, речь, компьютерное зрение, оценка качества. |
+| **Data & Knowledge** | Платформы данных, поиск, аналитика, качество и происхождение данных. |
+| **Automation** | Управляемые процессы, правила, интеграции и контролируемые действия ИИ. |
+| **Production Engineering** | CI/CD, инфраструктура, наблюдаемость, безопасность, управление инцидентами и откат. |
+
+Также занимаемся [разработкой корпоративных систем](https://corex.systems/service-development) и [интеграцией приложений и данных](https://corex.systems/service-integration).
+
+## Как мы работаем
+
+| Этап | Что определяем или проверяем |
+| :--- | :--- |
+| **01 · Постановка задачи** | Цели, пользователи, ограничения, экономические параметры. |
+| **02 · Архитектура** | Компоненты, данные, интерфейсы, модель доступа и требования к эксплуатации. |
+| **03 · Базовый уровень** | С чем сравниваем результат и где проходит порог приемки. |
+| **04 · Эксперимент** | Проверка гипотезы с фиксированными условиями и протоколом решений. |
+| **05 · Оценка** | Независимый тест, разбор ошибок, стоимость, устойчивость. |
+| **06 · Промышленный запуск** | Выпуск, мониторинг, безопасность, восстановление и документация. |
+
+**Не получено измеримого улучшения — решение не масштабируется.**
+
+[Подробнее о подходе CoreX →](https://corex.systems/)
+
+## Открытые исследования и публикации
+
+### Исследование CoreX 2026
+
+**Индекс качества цифрового клиентского пути** — оценка открытых цифровых каналов российских компаний по воспроизводимой методике.
+
+| 135 | 6 | 5 | 32 |
+| :---: | :---: | :---: | :---: |
+| Компаний в контуре | Отрасли | Показатели пути | Результаты допущены к публикации |
+
+Наблюдения, не прошедшие критерии подтверждения, не подменяются нулевыми оценками.
+
+[**Исследование и методология**](https://corex.systems/research-customer-journey-2026) · [Аннотация](https://github.com/corexsystems/corexsystems/blob/main/publications/digital-customer-journey-2026.md)
+
+### Инженерные материалы
+
+- [Промышленный ИИ: чем отличается прототип от действующей системы](https://github.com/corexsystems/corexsystems/blob/main/publications/ai-production-architecture.md)
+- [Готовность корпоративных данных к искусственному интеллекту](https://github.com/corexsystems/corexsystems/blob/main/publications/data-readiness-for-ai.md)
+- [Автоматизация и наблюдаемость: как избежать нового ручного труда](https://github.com/corexsystems/corexsystems/blob/main/publications/automation-observability.md)
+- [Основные риски внедрения ИИ](https://github.com/corexsystems/corexsystems/blob/main/publications/ai-implementation-risks-2026.md) — статья CoreX на VC.ru
+
+**[→ Полный каталог публикаций](https://github.com/corexsystems/corexsystems/blob/main/PUBLICATIONS.md)**
+
+Репозиторий — публичная визитная карточка и каталог открытых материалов, **не** зеркало внутренних программных проектов. Полные тексты находятся у первоисточников.
+
+## Обсудить задачу
+
+Для первого обращения не требуется готовое техническое задание: можно описать бизнес-задачу, существующие процессы, ограничения и ожидаемый результат.
+
+[**Получить предварительную оценку**](https://corex.systems/estimate) · [**Написать CoreX**](mailto:info@corex.systems)
+
+**info@corex.systems** · [corex.systems](https://corex.systems/) · [VC.ru](https://vc.ru/id6132975) · [Telegram](https://t.me/corex_systems)
+
+---
+
+### CoreX Systems · English
+
+**Architecture first. Technology second.**
+
+We engineer AI, data and automation solutions for organizations across Russia. Our architecture-first, evidence-driven process combines measurable acceptance criteria, reproducible experiments, and reliable production operations.
+
+**Focus:** AI & multimodal systems · Data engineering · Process automation · Enterprise integration · Production reliability.
+
+Explore our [research and publications](https://github.com/corexsystems/corexsystems/blob/main/PUBLICATIONS.md), [corporate website](https://corex.systems/) or [contact us](mailto:info@corex.systems).
+
+<sub>© 2026 ООО «Корекс Системы» / CoreX Systems · [Официальные реквизиты и правовая информация](https://corex.systems/legal)</sub>
